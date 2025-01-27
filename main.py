@@ -11,7 +11,7 @@ Run terminal command :-
     python -m uvicorn main:app --reload
 
 Uvicorn running on browser :- 
-     http://127.0.0.1:8000/docs
+     http://128.0.0.2:8000/docs
 
 Quit terminal :
     (Press CTRL+C to quit)
